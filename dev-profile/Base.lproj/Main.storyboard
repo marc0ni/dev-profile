@@ -67,7 +67,6 @@
                                     </imageView>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstItem="mco-LP-M5Q" firstAttribute="centerY" secondItem="pfU-Gu-gbz" secondAttribute="centerY" id="Hh8-FY-YO1"/>
                                     <constraint firstItem="mco-LP-M5Q" firstAttribute="leading" secondItem="pfU-Gu-gbz" secondAttribute="leading" constant="8" id="gfh-LV-Ipm"/>
                                     <constraint firstItem="mco-LP-M5Q" firstAttribute="centerY" secondItem="pfU-Gu-gbz" secondAttribute="centerY" id="nKs-4I-srL"/>
                                     <constraint firstItem="72L-Ue-myQ" firstAttribute="leading" secondItem="mco-LP-M5Q" secondAttribute="trailing" constant="8" id="sR4-eu-MKC"/>
@@ -97,7 +96,6 @@
                                 <constraints>
                                     <constraint firstItem="JRw-Ee-elm" firstAttribute="leading" secondItem="F3w-mo-FtQ" secondAttribute="trailing" constant="8" id="Iiq-m2-BaQ"/>
                                     <constraint firstItem="F3w-mo-FtQ" firstAttribute="leading" secondItem="hne-2W-wwS" secondAttribute="leading" constant="8" id="QDj-aB-5eg"/>
-                                    <constraint firstItem="F3w-mo-FtQ" firstAttribute="centerY" secondItem="hne-2W-wwS" secondAttribute="centerY" id="bTF-J0-yyf"/>
                                     <constraint firstItem="F3w-mo-FtQ" firstAttribute="centerY" secondItem="hne-2W-wwS" secondAttribute="centerY" id="ofi-AZ-tLw"/>
                                 </constraints>
                             </stackView>
