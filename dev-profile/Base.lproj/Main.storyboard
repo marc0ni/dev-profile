@@ -59,7 +59,7 @@
                                     <constraint firstAttribute="width" constant="110" id="qWF-ac-GWr"/>
                                 </constraints>
                             </imageView>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="nUk-yr-uB0">
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="nUk-yr-uB0" userLabel="nested stack views">
                                 <rect key="frame" x="8" y="335" width="359" height="358.5"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="L6i-1O-aOT" userLabel="upper row images">
